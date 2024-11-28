@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<li>Name: María Robles</li>
+<li>Location: México </li>
+<li>Languages: Spanish & English</li>
+
+
 <!--
 **MaryluRobch/MaryluRobch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
